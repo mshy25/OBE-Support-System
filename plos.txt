@@ -1,0 +1,17 @@
+eng know -	plo-1 apply knowledge of math
+probelm analysis -	plo-2 understand the probelm
+design -	plo-3 design the solutions of probelms
+investigation -	plo-4 investigate the complex probelms
+modern tool usage -	plo-5 slect appropiate technique by using modern tools to solve the probels
+engineer and society -	plo-6 keeping in view of enviroment solve the probels
+ethics -	plo-7 apply ethical principals
+indivisuual and teamwork -	plo-8 work effectively either invisullay or by teamwork
+communication -	plo-9 communicate effectively, both orally and written
+project mangement -	plo-10 apply mangement and engineering works to owns poject
+lifelong learning -	plo-11 recognize impotance and persue lifelong learning
+rsesposibilty -	plo-12 making responsibel to student for theri work
+programmer -	plo-13 student wiil be able to solving the coding probelms
+computer scientist -	plo-14 make computer scientists
+data scientist -	plo-15 make data scientist
+anaytical skills - 	plo-16 able to solve the analytical probelm
+anaytical skills - 	plo-17 able to solve the analytical probelm

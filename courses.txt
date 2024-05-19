@@ -1,0 +1,4 @@
+bsee electrical - 00002 CLO-9 CLO-1 -
+bscs programming fundamentals - 00001 CLO-9 CLO-2 -
+bsse sda - 00081  CLO-2 CLO-14  - 
+bsse human computer - 00082  CLO-10 CLO-14  - 

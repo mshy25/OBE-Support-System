@@ -1,0 +1,5 @@
+eng know - CLO-2 CLO-3 
+probelm analysis - CLO-1 CLO-2 
+design - CLO-9 CLO-10 
+investigation - CLO-14 CLO-15 
+modern tool usage - CLO-3 CLO-5
